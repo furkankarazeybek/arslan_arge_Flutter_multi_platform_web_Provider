@@ -28,7 +28,7 @@
 
 ## 🔗  Web App Link 
 
-🌐 Web App:
+🌐 Web App: https://pvtfurkan.github.io/flutter_arge_project/
 
 ####  Furkan KARAZEYBEK
 
